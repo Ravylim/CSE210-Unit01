@@ -1,0 +1,15 @@
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/bin/Debug/net6.0/week1
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/bin/Debug/net6.0/week1.deps.json
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/bin/Debug/net6.0/week1.runtimeconfig.json
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/bin/Debug/net6.0/week1.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/bin/Debug/net6.0/week1.pdb
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/week1.csproj.AssemblyReference.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/week1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/week1.AssemblyInfoInputs.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/week1.AssemblyInfo.cs
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/week1.csproj.CoreCompileInputs.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/week1.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/refint/week1.dll
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/week1.pdb
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/week1.genruntimeconfig.cache
+/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/CES 210 - W1- DEMO/week1/obj/Debug/net6.0/ref/week1.dll
